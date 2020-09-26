@@ -1,0 +1,13 @@
+name: Purging CDN Cache From jsDelivr
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge
+        run: curl https://purge.jsdelivr.net/gh/shui/CustomList@latest/custom.txt
+

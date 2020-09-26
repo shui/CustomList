@@ -1,0 +1,22 @@
+! Customize
+
+||googleapis.com
+
+||github.com
+||githubusercontent.com
+
+||leetcode.com
+
+||typingclub.com
+
+||gitbook.com
+
+||ted.com
+||tedcdn.com
+
+||wordpress.com
+||wp.com
+||gravatar.com
+
+||netsarang.com
+
