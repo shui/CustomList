@@ -4,6 +4,7 @@
 
 ||github.com
 ||githubusercontent.com
+||githubassets.com
 
 ||leetcode.com
 
