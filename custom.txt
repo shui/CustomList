@@ -1,6 +1,7 @@
 ! Customize
 
 ||googleapis.com
+||gstatic.com
 
 ||github.com
 ||githubusercontent.com
