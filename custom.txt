@@ -28,4 +28,4 @@
 !!eve-scout.com
 !!dotlan.net
 ||evepraisal.com
-zkillboard.com
+||zkillboard.com
