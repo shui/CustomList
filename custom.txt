@@ -27,5 +27,5 @@
 !!adashboard.info
 !!eve-scout.com
 !!dotlan.net
-!!evepraisal.com
-!!zkillboard.com
+||evepraisal.com
+zkillboard.com
