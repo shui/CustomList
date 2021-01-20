@@ -24,8 +24,8 @@
 
 !EVE
 ||fuzzwork.co.uk
-!!adashboard.info
-!!eve-scout.com
-!!dotlan.net
+||adashboard.info
+||eve-scout.com
+||dotlan.net
 ||evepraisal.com
 ||zkillboard.com
