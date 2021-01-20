@@ -29,3 +29,4 @@
 ||dotlan.net
 ||evepraisal.com
 ||zkillboard.com
+||evetech.net
