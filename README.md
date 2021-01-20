@@ -4,6 +4,7 @@
 
 ## 强制刷新缓存
 
+<https://purge.jsdelivr.net/gh/shui/CustomList@latest/custom.txt>
 ```
 curl https://purge.jsdelivr.net/gh/shui/CustomList@latest/custom.txt
 ```
