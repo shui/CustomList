@@ -29,4 +29,5 @@
 ||dotlan.net
 ||evepraisal.com
 ||zkillboard.com
+||bootstrapcdn.com
 ||evetech.net
