@@ -32,3 +32,4 @@
 ||bootstrapcdn.com
 ||evetech.net
 ||redditstatic.com
+||eve-pi.com
